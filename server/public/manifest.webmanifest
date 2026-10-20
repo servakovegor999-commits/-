@@ -1,0 +1,15 @@
+{
+  "name": "Круг",
+  "short_name": "Круг",
+  "description": "Закрытая сеть для своих: личные чаты, группы и каналы",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e7ece6",
+  "theme_color": "#1c7a5c",
+  "lang": "ru",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
